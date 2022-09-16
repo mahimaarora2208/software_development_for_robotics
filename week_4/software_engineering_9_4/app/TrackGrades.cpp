@@ -1,12 +1,14 @@
 /**
- * @file TrackGrades.cpp
+ * @file GradeCourse.cpp
  * @author Mahima Arora (marora1@umd.edu)
- * @brief ENPM808X Programing Exercise Week 2, Question 3-5 Accelerated C++
+ * @brief ENPM808X Programing Exercise Week 2, Question 3.10 Software Engineering
  * @version 0.1
- * @date 2022-09-15
+ * @date 2022-09-14
  * @section Class Description
  *
-
+ * This source file describes a class called GradeCourse which is used to change grades
+ * of the students as well as get average of the class for a paticular course.The header file
+ * GradeCourse.hpp contains the class structure.
  *
  */
 
