@@ -5,8 +5,8 @@ cmake ..
 make
 Run program: ./app/shell-app
 ```
-This will output the program in GraddeCourse.cpp on the terminal.
-
+This will output the program in main.cpp on the terminal.
+Enter stream of words and press ctrl + D when satisfied.
 ## Working with VSC IDE ##
 To view the output and code in VSC, simply open folder. You will then be able to view the source code.
 In the code, grades as well as number of students are hardcoded instead of user input as nothing was specified in the question. 
