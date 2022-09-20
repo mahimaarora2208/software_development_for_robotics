@@ -5,8 +5,9 @@ cmake ..
 make
 Run program: ./app/shell-app
 ```
-This will output the program in GraddeCourse.cpp on the terminal.
-
+This will output the program in concatVector.cpp on the terminal.
+You don't have to input any strings as it is already default in the program. To change the strings, 
+go to concatVector.cpp and change the vector value.
 ## Working with VSC IDE ##
 To view the output and code in VSC, simply open folder. You will then be able to view the source code.
 In the code, grades as well as number of students are hardcoded instead of user input as nothing was specified in the question. 
