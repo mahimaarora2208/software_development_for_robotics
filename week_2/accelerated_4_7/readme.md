@@ -5,14 +5,16 @@ cmake ..
 make
 Run program: ./app/shell-app
 ```
-This will output the program in GraddeCourse.cpp on the terminal.
+This will output the program in main.cpp on the terminal.
+Enter numbers on terminal and press ctrl + D when satisfied. For eg. enter --> 23 56 78 90 --> ctrl + D
+
 
 ## Working with VSC IDE ##
 To view the output and code in VSC, simply open folder. You will then be able to view the source code.
 In the code, grades as well as number of students are hardcoded instead of user input as nothing was specified in the question. 
 The UML file is also attached with the package. 
 
-To run the code on vsc, open GradeCourse.cpp file and click "run".
+To run the code on vsc, open main.cpp file and click "run".
 ## Plugins
 - Google C++ Sytle
 
