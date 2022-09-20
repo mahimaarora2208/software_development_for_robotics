@@ -66,5 +66,6 @@
         "variant": "cpp",
         "bit": "cpp"
     },
-    "ros.distro": "noetic"
+    "ros.distro": "noetic",
+    "C_Cpp.errorSquiggles": "Disabled"
 }

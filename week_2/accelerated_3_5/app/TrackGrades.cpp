@@ -50,7 +50,7 @@ int main()
     }
     for (int j = 0; j < maxStudents; j++)
     {
-        cout << studentNames[j] << "'s mean score is " << studentScores[j] << endl;
+        cout << studentNames[j] << "'s mean is " << studentScores[j] << endl;
     }
     return 0;
 }
